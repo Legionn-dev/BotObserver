@@ -1,4 +1,4 @@
-# 🤖 Line Tracker App (Beta)
+# 🤖 BotObserver App (Beta)
 
 Tento projekt je Android aplikácia určená na sledovanie pohybu robotov po dráhe (line follower), meranie ich času a počítanie kôl pomocou kamery smartfónu.
 
