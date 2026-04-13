@@ -22,8 +22,15 @@ Aplikácia je určená výhradne pre zariadenia s OS **Android**. Inštaluje sa 
 Medzi módmi sa prepína pomocou tlačidla v **pravom hornom rohu** (ikona 🔄 - loading šípky).
 
 ### 1. Režim kontroly zakázaných farieb (Color Check)
+
+> [!IMPORTANT]  
+> Prosíme nepoužívať svetlomodré, tyrkysové alebo azúrové farby, presnejší rozsha je tu: #00B3F7 - #00FFFF.
+
+> [!WARNING]  
+> Riadiť sa ale len podľa farebného rozsahu vyššie nestačí a preto to treba vždy skontrolovať aplikáciou.
+
 Tento mód slúži na technickú kontrolu robotov pred štartom.
-* **Účel:** Súťažiaci si týmto módom oskenujú svojho robota, aby zistili, či neobsahuje zakázané farby, ktoré by mohli rušiť senzory na dráhe.
+* **Účel:** Súťažiaci si týmto módom oskenujú svojho robota, aby zistili, či neobsahuje zakázané farby, ktoré by mohli rušiť senzory na dráhe. 
 * **Diagnostika:** Ak v tomto móde uvidíte na obrazovke (na tele robota) **biele miesta**, znamená to, že robot obsahuje farbu/odraz, ktorý tam nesmie byť a musí byť odstránený alebo prelepený.
 
 ### 2. Súťažný režim (Competition Mode)
