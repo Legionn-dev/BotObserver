@@ -94,7 +94,7 @@ Takto vyzerá kompletne pripravené pracovisko:
 
 ## 🛠️ Technické požiadavky a tipy
 *   **Osvetlenie:** Pre najlepšiu detekciu zabezpečte rovnomerné osvetlenie bez silných tieňov na cieľovej čiare.
-*   **Farba značky:** Aplikácia je prednastavená na detekciu **výraznej žltej farby** (HSV rozsah). Odporúčame umiestniť na hornú časť robota žltý štítok alebo kocku.
+*   **Farba značky:** Aplikácia je prednastavená na detekciu **slabo modrej farby** (HSV rozsah). Odporúčame nepoužívať modrú farbu
 *   **Umiestnenie:** Červené body v náhľade by mali byť zarovnané s fyzickou štartovacou čiarou na dráhe.
 
 ---
