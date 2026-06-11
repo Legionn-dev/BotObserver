@@ -80,7 +80,7 @@ Stojan sa skladá z troch hlavných častí, ktoré si môžete vytlačiť na 3D
 1.  **Podporné nohy (2 ks):** Umiestňujú sa na okraje dráhy.
     > ![Noha stojanu](hardware/images/leg_mount_preview.png)
 
-2.  **Priečny nosník:** Bežná plastová elektrikárska lišta na káble (20x20mm) odrezaná na dĺžku 40cm, ktorá sa zasunie do nôh.
+2.  **Priečny nosník:** Bežná plastová elektrikárska lišta na káble (20x20mm) odrezaná na dĺžku 50cm, ktorá sa zasunie do nôh.
     > ![Noha stojanu](hardware/images/leg.jpg)
 
 4.  **Univerzálny držiak (Top Mount):** Súčiastka, ktorá sa nasúva na lištu a pevne drží váš smartfón.
