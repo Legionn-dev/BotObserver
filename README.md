@@ -92,6 +92,23 @@ Takto vyzerá kompletne pripravené pracovisko:
 
 ---
 
+## 🏁 Dráha a kalibrácia (Track Layout)
+
+Preteky prebiehajú na špeciálne navrhnutej dráhe, ktorej dizajn zabezpečuje presné meranie senzorov aplikácie.
+
+### Dizajn dráhy
+*   **Tvar:** Dráha má oválny tvar.
+*   **Modrá čiara:** V strede dráhy (medzi okrajmi) sa nachádza **výrazná modrá čiara**. Táto čiara slúži ako referenčný bod pre aplikáciu. 
+*   **Funkcia:** Pomocou tejto modrej čiary sa v aplikácii zafixovávajú detekčné body ("virtuálne senzory"). Je dôležité, aby kamera telefónu mierila priamo na túto čiaru, čím sa zabezpečí, že senzory budú v správnej polohe voči prechádzajúcim robotom.
+
+> ![Dizajn dráhy](hardware/track_layouts/track_297-420.png)
+
+### Súbory na stiahnutie
+V priečinku `/hardware/track_layouts/` nájdete:
+*   `track_size.svg` – vektorové súbory s presnými rozmermi dráhy, ktorý môžete použiť na tlač alebo vyrezávanie.
+
+---
+
 ## 🛠️ Technické požiadavky a tipy
 *   **Osvetlenie:** Pre najlepšiu detekciu zabezpečte rovnomerné osvetlenie bez silných tieňov na cieľovej čiare.
 *   **Farba značky:** Aplikácia je prednastavená na detekciu **slabo modrej farby** (HSV rozsah). Odporúčame nepoužívať modrú farbu
